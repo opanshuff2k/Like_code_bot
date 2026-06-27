@@ -79,6 +79,14 @@
       "post_link": "https://t.me/TRUSTED_STORE_7/68",
       "timestamp": "2026-06-26T14:12:16.480958",
       "price": 10
+    },
+    {
+      "code": "5f3fd95bb54ea71bb",
+      "channel": "Testing",
+      "channel_id": "4402283006",
+      "post_link": "https://t.me/c/4402283006/2",
+      "timestamp": "2026-06-27T17:22:39.000670",
+      "price": 10
     }
   ],
   "8327432100": [
@@ -107,6 +115,16 @@
       "post_link": "https://t.me/c/3361299244/2554\nhttps://t.me/+WQanWHpYx50zMjNl",
       "timestamp": "2026-06-25T19:40:22.224517",
       "price": 10
+    }
+  ],
+  "6667476799": [
+    {
+      "code": "5f3fd95bb54ea71bb",
+      "channel": "Testing",
+      "channel_id": "4402283006",
+      "post_link": "https://t.me/c/4402283006/2",
+      "timestamp": "2026-06-27T17:50:36.186682",
+      "price": 0
     }
   ]
 }
